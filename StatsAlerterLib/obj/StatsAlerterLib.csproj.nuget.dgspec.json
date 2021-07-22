@@ -1,0 +1,171 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/rohith/Desktop/PSAssignments/Statisticker/StatsAlerterLib/StatsAlerterLib.csproj": {}
+  },
+  "projects": {
+    "/home/rohith/Desktop/PSAssignments/Statisticker/AlertsLib/AlertsLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rohith/Desktop/PSAssignments/Statisticker/AlertsLib/AlertsLib.csproj",
+        "projectName": "AlertsLib",
+        "projectPath": "/home/rohith/Desktop/PSAssignments/Statisticker/AlertsLib/AlertsLib.csproj",
+        "packagesPath": "/home/rohith/.nuget/packages/",
+        "outputPath": "/home/rohith/Desktop/PSAssignments/Statisticker/AlertsLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rohith/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/132/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/rohith/Desktop/PSAssignments/Statisticker/StatisticsLib/StatisticsLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rohith/Desktop/PSAssignments/Statisticker/StatisticsLib/StatisticsLib.csproj",
+        "projectName": "StatisticsLib",
+        "projectPath": "/home/rohith/Desktop/PSAssignments/Statisticker/StatisticsLib/StatisticsLib.csproj",
+        "packagesPath": "/home/rohith/.nuget/packages/",
+        "outputPath": "/home/rohith/Desktop/PSAssignments/Statisticker/StatisticsLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rohith/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/132/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/rohith/Desktop/PSAssignments/Statisticker/StatsAlerterLib/StatsAlerterLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rohith/Desktop/PSAssignments/Statisticker/StatsAlerterLib/StatsAlerterLib.csproj",
+        "projectName": "StatsAlerterLib",
+        "projectPath": "/home/rohith/Desktop/PSAssignments/Statisticker/StatsAlerterLib/StatsAlerterLib.csproj",
+        "packagesPath": "/home/rohith/.nuget/packages/",
+        "outputPath": "/home/rohith/Desktop/PSAssignments/Statisticker/StatsAlerterLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rohith/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/rohith/Desktop/PSAssignments/Statisticker/AlertsLib/AlertsLib.csproj": {
+                "projectPath": "/home/rohith/Desktop/PSAssignments/Statisticker/AlertsLib/AlertsLib.csproj"
+              },
+              "/home/rohith/Desktop/PSAssignments/Statisticker/StatisticsLib/StatisticsLib.csproj": {
+                "projectPath": "/home/rohith/Desktop/PSAssignments/Statisticker/StatisticsLib/StatisticsLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/132/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

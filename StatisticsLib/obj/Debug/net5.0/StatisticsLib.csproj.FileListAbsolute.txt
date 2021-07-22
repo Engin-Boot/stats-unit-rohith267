@@ -1,0 +1,12 @@
+/home/rohith/Desktop/PSAssignments/Statisticker/StatisticsLib/obj/Debug/net5.0/StatisticsLib.csproj.AssemblyReference.cache
+/home/rohith/Desktop/PSAssignments/Statisticker/StatisticsLib/obj/Debug/net5.0/StatisticsLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/rohith/Desktop/PSAssignments/Statisticker/StatisticsLib/obj/Debug/net5.0/StatisticsLib.AssemblyInfoInputs.cache
+/home/rohith/Desktop/PSAssignments/Statisticker/StatisticsLib/obj/Debug/net5.0/StatisticsLib.AssemblyInfo.cs
+/home/rohith/Desktop/PSAssignments/Statisticker/StatisticsLib/obj/Debug/net5.0/StatisticsLib.csproj.CoreCompileInputs.cache
+/home/rohith/Desktop/PSAssignments/Statisticker/StatisticsLib/bin/Debug/net5.0/StatisticsLib.deps.json
+/home/rohith/Desktop/PSAssignments/Statisticker/StatisticsLib/bin/Debug/net5.0/StatisticsLib.dll
+/home/rohith/Desktop/PSAssignments/Statisticker/StatisticsLib/bin/Debug/net5.0/ref/StatisticsLib.dll
+/home/rohith/Desktop/PSAssignments/Statisticker/StatisticsLib/bin/Debug/net5.0/StatisticsLib.pdb
+/home/rohith/Desktop/PSAssignments/Statisticker/StatisticsLib/obj/Debug/net5.0/StatisticsLib.dll
+/home/rohith/Desktop/PSAssignments/Statisticker/StatisticsLib/obj/Debug/net5.0/ref/StatisticsLib.dll
+/home/rohith/Desktop/PSAssignments/Statisticker/StatisticsLib/obj/Debug/net5.0/StatisticsLib.pdb
