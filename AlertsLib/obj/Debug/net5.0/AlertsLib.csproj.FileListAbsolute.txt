@@ -1,0 +1,12 @@
+/home/rohith/Desktop/PSAssignments/Statisticker/AlertsLib/obj/Debug/net5.0/AlertsLib.csproj.AssemblyReference.cache
+/home/rohith/Desktop/PSAssignments/Statisticker/AlertsLib/obj/Debug/net5.0/AlertsLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/rohith/Desktop/PSAssignments/Statisticker/AlertsLib/obj/Debug/net5.0/AlertsLib.AssemblyInfoInputs.cache
+/home/rohith/Desktop/PSAssignments/Statisticker/AlertsLib/obj/Debug/net5.0/AlertsLib.AssemblyInfo.cs
+/home/rohith/Desktop/PSAssignments/Statisticker/AlertsLib/obj/Debug/net5.0/AlertsLib.csproj.CoreCompileInputs.cache
+/home/rohith/Desktop/PSAssignments/Statisticker/AlertsLib/bin/Debug/net5.0/AlertsLib.deps.json
+/home/rohith/Desktop/PSAssignments/Statisticker/AlertsLib/bin/Debug/net5.0/AlertsLib.dll
+/home/rohith/Desktop/PSAssignments/Statisticker/AlertsLib/bin/Debug/net5.0/ref/AlertsLib.dll
+/home/rohith/Desktop/PSAssignments/Statisticker/AlertsLib/bin/Debug/net5.0/AlertsLib.pdb
+/home/rohith/Desktop/PSAssignments/Statisticker/AlertsLib/obj/Debug/net5.0/AlertsLib.dll
+/home/rohith/Desktop/PSAssignments/Statisticker/AlertsLib/obj/Debug/net5.0/ref/AlertsLib.dll
+/home/rohith/Desktop/PSAssignments/Statisticker/AlertsLib/obj/Debug/net5.0/AlertsLib.pdb
